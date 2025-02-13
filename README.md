@@ -70,5 +70,4 @@ WizUp is a powerful platform designed to integrate business **WhatsApp accounts*
 ---
 ## Developer Information
 
-- **Developer Email:** izhan47@gmail.com
-- **Developer Website/Support:** [izhan.me](https://izhan.me)
+- **Developer Email:** iabdullahh.dev@gmail.com
